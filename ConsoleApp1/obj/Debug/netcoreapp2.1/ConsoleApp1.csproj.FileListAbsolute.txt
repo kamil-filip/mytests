@@ -1,0 +1,16 @@
+C:\Users\kozlo\source\repos\MyAuth\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\kozlo\source\repos\MyAuth\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\kozlo\source\repos\MyAuth\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\kozlo\source\repos\MyAuth\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\kozlo\source\repos\MyAuth\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\kozlo\source\repos\MyAuth\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\kozlo\source\repos\MyAuth\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\kozlo\source\repos\MyAuth\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\kozlo\source\repos\MyAuth\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\kozlo\source\repos\MyAuth\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\kozlo\source\repos\MyAuth\ConsoleApp1\bin\Debug\netcoreapp2.1\Wrapper.dll
+C:\Users\kozlo\source\repos\MyAuth\ConsoleApp1\bin\Debug\netcoreapp2.1\Wrapper.Lib.dll
+C:\Users\kozlo\source\repos\MyAuth\ConsoleApp1\bin\Debug\netcoreapp2.1\Wrapper.Lib.pdb
+C:\Users\kozlo\source\repos\MyAuth\ConsoleApp1\bin\Debug\netcoreapp2.1\Wrapper.pdb
+C:\Users\kozlo\source\repos\MyAuth\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\kozlo\source\repos\MyAuth\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CopyComplete

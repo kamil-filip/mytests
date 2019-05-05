@@ -1,0 +1,6 @@
+C:\Users\kozlo\source\repos\MyAuth\Wapper.Test\bin\Debug\Wapper.Test.exe.config
+C:\Users\kozlo\source\repos\MyAuth\Wapper.Test\bin\Debug\Wapper.Test.exe
+C:\Users\kozlo\source\repos\MyAuth\Wapper.Test\bin\Debug\Wapper.Test.pdb
+C:\Users\kozlo\source\repos\MyAuth\Wapper.Test\obj\Debug\Wapper.Test.csproj.CoreCompileInputs.cache
+C:\Users\kozlo\source\repos\MyAuth\Wapper.Test\obj\Debug\Wapper.Test.exe
+C:\Users\kozlo\source\repos\MyAuth\Wapper.Test\obj\Debug\Wapper.Test.pdb
